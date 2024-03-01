@@ -807,13 +807,13 @@
     }
 
     .py-md-163 {
-        padding-top: 163px;
-        padding-bottom: 163px;
+        padding-top: 163px !important;
+        padding-bottom: 163px !important;
     }
 
     .px-100 {
-        padding-left: 50px;
-        padding-right: 50px;
+        padding-left: 50px !important;
+        padding-right: 50px !important;
     }
 }
 
@@ -841,7 +841,7 @@
     }
 
     .pb-lg-120 {
-        padding-bottom: 120px;
+        padding-bottom: 120px !important;
     }
 
     .mt-lg-40 {
@@ -849,12 +849,12 @@
     }
 
     .py-lg-160 {
-        padding-top: 160px;
-        padding-bottom: 160px;
+        padding-top: 160px !important;
+        padding-bottom: 160px !important;
     }
 
     .pb-lg-124 {
-        padding-bottom: 124px;
+        padding-bottom: 124px !important;
     }
 
     .pb-lg-89 {
