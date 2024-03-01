@@ -800,10 +800,9 @@
     .lh-19 {
         line-height: 19px;
     }
-
     .pt-md-300 {
 
-        padding-top: 300px;
+        padding-top: 300px !important;
     }
 
     .py-md-163 {
@@ -831,13 +830,13 @@
     }
 
     .px-100 {
-        padding-left: 100px;
-        padding-right: 100px;
+        padding-left: 100px !important;
+        padding-right: 100px !;
     }
 
     .px-lg-32 {
-        padding-left: 32px;
-        padding-right: 32px;
+        padding-left: 32px !important;
+        padding-right: 32px !important;
     }
 
     .pb-lg-120 {
@@ -845,7 +844,7 @@
     }
 
     .mt-lg-40 {
-        margin-top: 40px;
+        margin-top: 40px !important;
     }
 
     .py-lg-160 {
@@ -858,7 +857,7 @@
     }
 
     .pb-lg-89 {
-        padding-bottom: 89px;
+        padding-bottom: 89px !important;
     }
     .translate-y-26{
         transform: translateY(26%);
