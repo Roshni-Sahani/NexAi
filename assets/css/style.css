@@ -860,6 +860,9 @@
     .pb-lg-89 {
         padding-bottom: 89px;
     }
+    .translate-y-26{
+        transform: translateY(26%);
+    }
 .pt-lg-145{
     padding-top: 145px;
 }
